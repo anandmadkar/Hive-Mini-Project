@@ -1,7 +1,7 @@
 --------------------------------------------------------- HIVE PROJECT 1 ----------------------------------------------------------------------
 
 
-Q1) Create a schema based on the given dataset 
+Q1) Create a schema based on the given dataset
 
 Q2) Dump the data inside the hdfs in the given schema location. 
 
